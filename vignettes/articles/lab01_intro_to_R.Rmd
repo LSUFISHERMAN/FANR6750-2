@@ -50,8 +50,7 @@ We will go over the basics of using `R` during lab sessions but there are many g
 Of course, if you encounter error messages you don't understand or need help figuring out how to accomplish something in `R`, google is your best friend (even the most experienced `R` users use google on a daily basis). The key to finding answers on google is asking the right questions. Because we will not spend much time on this topic in lab, please refer to these links for advice on formulating `R`-related questions:
 
 - [How to ask for R help](https://blog.revolutionanalytics.com/2014/01/how-to-ask-for-r-help.html)
-
-- [Seeking help](https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html#seeking_help) from *Data Analysis and Visualization in R for Ecologists* 
+ 
 
 # Using `R`- the very basics 
 
